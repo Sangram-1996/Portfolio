@@ -576,6 +576,27 @@ b, strong {
   box-shadow: 0px 0 35px 0 rgba(0, 0, 0, 0.08);
 }
 
+/*
+----------------------------------------------
+    GitHub stats                             \
+----------------------------------------------
+*/
+.calendar {
+  width: 85%;
+  margin: auto;
+  padding: 4rem;
+  border: none !important;
+  padding: 0;
+}
+
+.section__title {
+  margin-top: -10%;
+  text-align: center;
+}
+.dark-mode p {
+  color: white;
+}
+
 
 
 
